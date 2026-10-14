@@ -1,0 +1,8 @@
+{
+  "name": "BFSI Research Assistant",
+  "description": "Literature review matrix, paper extraction, thematic synthesis, and provisional research question formulation for Banking, Finance, and Insurance researchers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
